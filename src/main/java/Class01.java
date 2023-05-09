@@ -5,7 +5,7 @@ public class Class01 {
 
 // v2 çalışmaalrı
 
-
+//v3 olustur
 
     }
 }

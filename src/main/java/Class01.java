@@ -8,5 +8,7 @@ public class Class01 {
 //v3 olustur
         // v4 offffffffffff
 //github değisiklikleri
+
+        //localden sevgilerle
     }
 }
